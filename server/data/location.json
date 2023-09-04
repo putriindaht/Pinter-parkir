@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Green Office Park 1 BSD",
+        "longitude": -6.301482183783541, 
+        "latitude": 106.65056945767215,
+        "address": "Jl. BSD Raya Bar., Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345"
+    },
+    {
+        "name": "Aeon Mall BSD ",
+        "longitude": -6.304237109947781, 
+        "latitude": 106.64372254240344,
+        "address": "Jl. BSD Raya Utama No.63, Situ Gadung, Kec. Pagedangan, Kabupaten Tangerang, Banten 15339"
+    },
+    {
+        "name": "The Breeze BSD",
+        "longitude": -6.301015137110872,
+        "latitude": 106.65338102461244,
+        "address": "Jl. BSD Green Office Park Jl. BSD Grand Boulevard, Sampora, BSD, Kabupaten Tangerang, Banten 15345"
+    },
+    {
+        "name": "QBIG BSD",
+        "longitude": -6.284317219644743, 
+        "latitude": 106.63812007301642,
+        "address": "Jl. BSD Raya Utama, Lengkong Kulon, Kec. Pagedangan, Kabupaten Tangerang, Banten 15331"
+    }
+]

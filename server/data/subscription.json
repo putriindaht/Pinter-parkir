@@ -1,0 +1,16 @@
+[
+    {
+        "name": "A",
+        "durationAmount": 1,
+        "durationUnit": "month",
+        "price": 300000,
+        "description": "Parking package for 1 month"
+    },
+    {
+        "name": "B",
+        "durationAmount": 2,
+        "durationUnit": "month",
+        "price": 600000,
+        "description": "Parking package for 2 month"
+    }
+]

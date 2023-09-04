@@ -1,0 +1,16 @@
+[
+    {
+        "nickname": "myCar",
+        "licenseNumber": "B-99-X",
+        "brand": "Toyota",
+        "color": "black",
+        "UserId": 1
+    },
+    {
+        "nickname": "jaguar",
+        "licenseNumber": "A-88-Y",
+        "brand": "Honda",
+        "color": "yellow",
+        "UserId": 2
+    }
+]

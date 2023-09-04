@@ -1,0 +1,26 @@
+[
+    {
+        "username": "Bambang",
+        "email": "bambang@mail.com",
+        "password": "12345",
+        "role": "customer"
+    },
+    {
+        "username": "Udin",
+        "email": "udin@mail.com",
+        "password": "12345",
+        "role": "customer"
+    },
+    {
+        "username": "Yanto",
+        "email": "yanto@mail.com",
+        "password": "12345",
+        "role": "admin"
+    },
+    {
+        "username": "Bahrul",
+        "email": "bahrul@mail.com",
+        "password": "12345",
+        "role": "admin"
+    }
+]
